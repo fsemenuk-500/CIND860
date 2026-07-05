@@ -19,10 +19,12 @@ The goal of the project is to apply advanced data analytics techniques to extrac
 6. **Interpretation** – Feature importance and insights  
 
 ## Repository Layout
-- `notebooks/` – Interactive Colab notebooks  
-- `src/` – Modular Python scripts  
-- `results/` – Charts, metrics, and exported outputs  
-- `data/` – Dataset placeholder  
+-technical report on main page
+-CIND_860_Project (1).ipynb, most recent file on main page
+
+link to data source: 
+
+National Cancer Institute. (n.d.). MP2PRT ALL: Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia. Genomic Data Commons (GDC). https://portal.gdc.cancer.gov/projects/MP2PRT-ALL
 
 ## Technologies Used
 Python, pandas, numpy, scikit‑learn, matplotlib, seaborn, Google Colab.
