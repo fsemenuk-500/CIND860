@@ -1,4 +1,4 @@
-# CIND860 – Advanced Data Analytics Project
+# CIND860 – Advanced Data Analytics Project - UPDATED July 30, 2026
 
 This repository contains the full analytical workflow for my CIND860 project at Toronto Metropolitan University.  
 The goal of the project is to apply advanced data analytics techniques to extract insights, build predictive models, and evaluate their performance using industry‑standard methodologies.
@@ -20,7 +20,7 @@ The goal of the project is to apply advanced data analytics techniques to extrac
 
 ## Repository Layout
 -technical report on main page
--CIND_860_Project (1).ipynb, most recent file on main page
+-CIND_860_Project 2026-07-30.ipynb, most recent file on main page
 
 link to data source: 
 
